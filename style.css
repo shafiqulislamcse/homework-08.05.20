@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+}
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	width: 30%;
+	min-height: 300px;
+	float: left;
+	background-color: blue;
+}
+.contact{
+	width: 70%;
+	min-height: 300px;
+	float: right;
+	background-color: yellow;
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
